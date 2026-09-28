@@ -1,4 +1,4 @@
-# 📊 MailSense
+# 📊 MailSense (https://mail-sense.streamlit.app/)
 
 **Intelligent Email Emotion Triage & Analytics Portal**
 
