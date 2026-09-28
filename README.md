@@ -1,6 +1,6 @@
 # 📊 MailSense (https://mail-sense.streamlit.app/)
 
-**Intelligent Email Emotion Triage & Analytics Portal**
+**Intelligent Email Emotion Classification & Analytics Portal**
 
 MailSense is a modern, privacy-focused email dashboard built with Python and Streamlit. It connects to your inbox via secure IMAP SSL, classifies unread emails into emotional categories (**Happy**, **Normal**, **Sad**, **Angry**), and allows you to read and synchronize email read-status directly with Gmail, Outlook, or Yahoo.
 
